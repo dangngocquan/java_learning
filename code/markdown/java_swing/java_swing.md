@@ -4,7 +4,7 @@
 | ------- | ----- |
 | 1 | [Using Dialog Boxes - Basic input and output with dialog boxes](/code/markdown/java_swing/section01.md) |
 | 2 | [Create Simple Drawings - Displaying and drawing lines on the screen](/code/markdown/java_swing/section02.md)|
-| 3 | Drawing Rectangles and Ovals - Using shapes to represent data |
+| 3 | [Drawing Rectangles and Ovals - Using shapes to represent data](/code/markdown/java_swing/section03.md) |
 | 4 | Colors and Filled Shapes - Drawing a bull's-eye and random graphics |
 | 5 | Drawings Arcs - Drawing spirals with arcs |
 | 6 | Using Objects with Graphics - Storing shapes as objects |
@@ -23,3 +23,4 @@
     + Create Simple Drawings
         + Java's Coordinate System
         + First Drawing Application
+    + Drawing Rectangles and Ovals
