@@ -6,7 +6,7 @@
 | 2 | [Create Simple Drawings - Displaying and drawing lines on the screen](/code/markdown/java_swing/section02.md)|
 | 3 | [Drawing Rectangles and Ovals - Using shapes to represent data](/code/markdown/java_swing/section03.md) |
 | 4 | [Colors and Filled Shapes - Drawing a bull's-eye and random graphics](/code/markdown/java_swing/section04.md) |
-| 5 | Drawings Arcs - Drawing spirals with arcs |
+| 5 | [Drawings Arcs - Drawing spirals with arcs](/code/markdown/java_swing/section05.md) |
 | 6 | Using Objects with Graphics - Storing shapes as objects |
 | 7 | Displaying Text and Images Using Labels - Providing status information |
 | 8 | Drawing with Polymorphism - Identifying the similarities between shapes |
@@ -25,3 +25,4 @@
         + First Drawing Application
     + Drawing Rectangles and Ovals
     + Colors and Filled Shapes
+    + Drawings Arcs
