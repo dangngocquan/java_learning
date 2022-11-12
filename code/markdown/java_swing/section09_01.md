@@ -1,6 +1,7 @@
 # **Introduction**
 
 ### **GUI** : Graphical user interface
+### **AWT** : Abstract Window Toolkit
 
 <br>
 
