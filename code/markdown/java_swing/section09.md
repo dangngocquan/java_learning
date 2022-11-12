@@ -3,7 +3,7 @@
 |     | Content |
 | --- | ------- |
 |  1 | [Introduction](/code/markdown/java_swing/section09_01.md) |
-|  2 | Java's New Nimbus Look-and-Fell |
+|  2 | [Java's New Nimbus Look-and-Fell](/code/markdown/java_swing/section09_02.md) |
 |  3 | Simple GUI-Based Input/Output with JOptionPane |
 |  4 | Overview of Swing Components |
 |  5 | Displaying Text and Images in a Window |
