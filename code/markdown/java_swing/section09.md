@@ -8,7 +8,7 @@
 |  4 | [Overview of Swing Components](/code/markdown/java_swing/section09_04.md) |
 |  5 | [Displaying Text and Images in a Window](/code/markdown/java_swing/section09_05.md) |
 |  6 | [Text Fields and an Introduction to Event Handling with Nested Classes](/code/markdown/java_swing/section09_06.md) |
-|  7 | Common GUI Event Types and Listener Interfaces |
+|  7 | [Common GUI Event Types and Listener Interfaces](/code/markdown/java_swing/section09_07.md) |
 |  8 | How Event Handling Works |
 |  9 | JButton | 
 | 10 | Buttons That Maintain State | 
