@@ -1,12 +1,9 @@
 # **JButton**
-
-### ***Code & Result***
-
 ## ***Swing button hierarchy***
 ![Swing button hierarchy](/code/assets/images/java_swing/section09/section09_09/SwingButtonHierarchy.png "Swing button hierarchy")
 
 ## **Example**
-
+### ***Code & Result***
 #### *file* ***bug1.png***
 
 ![bug1.png](/code/assets/images/java_swing/section09/section09_09/bug1.png "bug1.png")
