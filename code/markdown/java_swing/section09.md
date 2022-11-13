@@ -10,7 +10,7 @@
 |  6 | [Text Fields and an Introduction to Event Handling with Nested Classes](/code/markdown/java_swing/section09_06.md) |
 |  7 | [Common GUI Event Types and Listener Interfaces](/code/markdown/java_swing/section09_07.md) |
 |  8 | [How Event Handling Works](/code/markdown/java_swing/section09_08.md) |
-|  9 | JButton | 
+|  9 | [JButton](/code/markdown/java_swing/section09_09.md) | 
 | 10 | Buttons That Maintain State | 
 | 11 | JCommonBox: Using an Anonymous Inner Class for Event Handling | 
 | 12 | JList |
