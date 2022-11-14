@@ -51,3 +51,44 @@
         + Using Panels to Manager More Complex Layouts
         + JTextArea
 
+
+<br> 
+
+## **Constructor and Method Summary**
+
+|   |   | Syntax | Modifier and Type | Class |
+| - | - | ------ | ---- | ----- |
+|  | [x] | showMessageDialog(Component parentComponent, Object message, String title, int messageType, Icon icon) | static void | JOptionPane |
+|  | [x] | showInputDialog(Component parentComponent, Object message, String title, int messageType) | static String | JOptionPane |
+|  | [x] | setColor(Color c) | abstract void | Graphics |
+|  | [x] | setFont(Font font) | abstract void | Graphics |
+|  |  | getColor() | abstract Color | Graphics |
+|  |  | getFont() | abstract Font | Graphics |
+|  | [x] | drawLine(int x1, int y1, int x2, int y2) | abstract void | Graphics |
+|  |  | drawOval(int x, int y, int width, int height) | abstract void | Graphics |
+|  |  | drawPolygon(int[] xPoints, int[] yPoints, int nPoints) | abstract void | Graphics |
+|  |  | 	drawPolyline(int[] xPoints, int[] yPoints, int nPoints) | abstract void | Graphics |
+|  | [x] | drawRect(int x, int y, int width, int height) | void | Graphics |
+|  |  | drawRoundRect(int x, int y, int width, int height, int arcWidth, int arcHeight) | abstract void | Graphics |
+|  |  | drawArc(int x, int y, int width, int height, int startAngle, int arcAngle) | abstract void | Graphics |
+|  |  | drawImage(Image img, int x, int y, Color bgcolor, ImageObserver observer) | abstract boolean | Graphics |
+|  |  | drawString(String str, int x, int y) | abstract void | Graphics |
+|  |  | fillOval(int x, int y, int width, int height) | abstract void | Graphics |
+|  |  | fillPolygon(int[] xPoints, int[] yPoints, int nPoints) | abstract void | Graphics |
+|  |  | fillRect(int x, int y, int width, int height) | abstract void | Graphics |
+|  |  | fillRoundRect(int x, int y, int width, int height, int arcWidth, int arcHeight) | abstract void | Graphics |
+|  |  | fillArc(int x, int y, int width, int height, int startAngle, int arcAngle) | abstract void | Graphics |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  | [x] | paintComponent(Graphics g) | protected void | JPanel |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
