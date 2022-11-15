@@ -12,7 +12,7 @@
 |  8 | [How Event Handling Works](/code/markdown/java_swing/section09_08.md) |
 |  9 | [JButton](/code/markdown/java_swing/section09_09.md) | 
 | 10 | [Buttons That Maintain State](/code/markdown/java_swing/section09_10.md) | 
-| 11 | JCommonBox: Using an Anonymous Inner Class for Event Handling | 
+| 11 | [JCommonBox: Using an Anonymous Inner Class for Event Handling](/code/markdown/java_swing/section09_11.md) | 
 | 12 | JList |
 | 13 | Multiple-Selection Lists |
 | 14 | Mouse Event Handling | 

@@ -95,8 +95,6 @@
 |  | 🌱🌱 | setLayout(LayoutManager manager) | void | JFrame |
 |  |  |  |  |  |
 |  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
 |  | 🌱 | setIcon(Icon icon) | void | JLabel |
 |  | 🌱 | setText(String text) | void | JLabel |
 |  |  | setIconTextGap(int iconTextGap) | void | JLabel |
@@ -115,8 +113,6 @@
 |  | 🌱 | getSource() | public Object | ActionEvent |
 |  |  |  |  |  |
 |  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
 |  | 🌱 | setFont(Font f) | void | JTextField |
 |  | 🌱 | setColumns(int columns) | void | JTextField |
 |  | 🌱 | setText(String t) | public void | JTextField |
@@ -133,12 +129,22 @@
 |  | 🌱🌱 | addActionListener(ActionListener l) | public void | JButton |
 |  |  |  |  |  |
 |  |  |  |  |  |
+|  | 🌱🌱🌱 | itemStateChanged(ItemEvent e) | void | ItemListener |
 |  |  |  |  |  |
 |  |  |  |  |  |
+|  |  | JCheckBox(String text, Icon icon, boolean selected) | JCheckBox | JCheckBox |
+|  |  | isSelected() | public boolean | JCheckBox |
+|  | 🌱🌱 | addItemListener(ItemListener l) | public void | JCheckBox |
 |  |  |  |  |  |
 |  |  |  |  |  |
+|  | 🌱 | add(AbstractButton b) | void | ButtonGroup |
+|  |  | clearSelection() | void | ButtonGroup |
+|  |  | remove(AbstractButton b) | void | ButtonGroup |
 |  |  |  |  |  |
 |  |  |  |  |  |
+|  |  | JRadioButton(String text, Icon icon, boolean selected) | JRadioButton | JRadioButton |
+|  |  | isSelected() | public boolean | JRadioButton|
+|  | 🌱🌱 | addItemListener(ItemListener l) | public void | JRadioButton |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
