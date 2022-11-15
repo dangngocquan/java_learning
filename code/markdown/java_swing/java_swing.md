@@ -147,6 +147,15 @@
 |  | 🌱🌱 | addItemListener(ItemListener l) | public void | JRadioButton |
 |  |  |  |  |  |
 |  |  |  |  |  |
+|  | 🌱 | JComboBox(E[] items) | JComboBox | JComboBox |
+|  | 🌱🌱 | addItemListener(ItemListener aListener) | void | JComboBox |
+|  |  | setMaximumRowCount(int count) | void | JComboBox |
+|  |  | getSelectedIndex() | int | JComboBox |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
