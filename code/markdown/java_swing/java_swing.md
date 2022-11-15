@@ -93,6 +93,8 @@
 |  | 🌱🌱 | setVisible(boolean b) | public void | JFrame |
 |  | 🌱🌱 | setSize(int width, int height) | public void | JFrame |
 |  | 🌱🌱 | setLayout(LayoutManager manager) | void | JFrame |
+|  |  | getContentPane() | Container | JFrame |
+|  |  | setBackground(Color bgColor) | public void | JFrame |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  | 🌱 | setIcon(Icon icon) | void | JLabel |
@@ -153,6 +155,13 @@
 |  |  | getSelectedIndex() | int | JComboBox |
 |  |  |  |  |  |
 |  |  |  |  |  |
+|  |  | setVisibleRowCount(int visibleRowCount) | void | JList |
+|  |  | setSelectionModel(ListSelectionModel selectionModel) | void | JList |
+|  |  | addListSelectionListener(ListSelectionListener listener) | void | JList |
+|  |  | getSelectedIndex() | int | JList |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  | JScrollPane(Component view) | JScrollPane | JScrollPane |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
