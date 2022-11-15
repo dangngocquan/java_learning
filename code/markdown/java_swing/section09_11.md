@@ -71,4 +71,6 @@ public class ComboBoxTest {
 ```
 #### ***Result***
 
-![](java_learning/blob/master/code/assets/images/java_swing/section09/section09_11/ComboBoxTest.mp4)
+![](/code/assets/images/java_swing/section09/section09_11/ComboBoxTest%5Bpic1%5D.png)
+
+![](/code/assets/images/java_swing/section09/section09_11/ComboBoxTest%5Bpic2%5D.png)
