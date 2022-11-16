@@ -85,6 +85,8 @@
 |  | 🌱🌱🌱 | paintComponent(Graphics g) | protected void | JPanel |
 |  |  | getSize() | public Dimension | JPanel |
 |  |  | setSize(int width, int height) | public void | JPanel |
+|  | 🌱🌱 | addMouseListener(MouseListener handle) |  | JPanel |
+|  | 🌱🌱 | addMouseMotionListener(MouseMotionListener handle) |  | JPanel |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  | 🌱 | add(String name, Component comp) | public Component | JFrame |
@@ -170,13 +172,15 @@
 |  |  | JScrollPane(Component view) | JScrollPane | JScrollPane |
 |  |  |  |  |  |
 |  |  |  |  |  |
+|  |  | mousePressed(MouseEvent event) | public void | MouseListener |
+|  |  | mouseClicked(MouseEvent event) | public void | MouseListener |
+|  |  | mouseReleased( MouseEvent event ) | public void | MouseListener |
+|  |  | mouseEntered( MouseEvent event ) | public void | MouseListener |
+|  |  | mouseExited( MouseEvent event ) | public void | MouseListener |
 |  |  |  |  |  |
 |  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+|  |  | mouseDragged( MouseEvent event ) | public void | MouseMotionListener |
+|  |  | mouseMoved( MouseEvent event ) | public void | MouseMotionListener |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
