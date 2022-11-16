@@ -157,8 +157,11 @@
 |  |  |  |  |  |
 |  |  | setVisibleRowCount(int visibleRowCount) | void | JList |
 |  |  | setSelectionModel(ListSelectionModel selectionModel) | void | JList |
-|  |  | addListSelectionListener(ListSelectionListener listener) | void | JList |
+|  | 🌱🌱 | addListSelectionListener(ListSelectionListener listener) | void | JList |
 |  |  | getSelectedIndex() | int | JList |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  | 🌱🌱🌱 | valueChanged( ListSelectionEvent event ) | public void | ListSelectionListener |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  | JScrollPane(Component view) | JScrollPane | JScrollPane |

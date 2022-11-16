@@ -14,7 +14,7 @@
 | 10 | [Buttons That Maintain State](/code/markdown/java_swing/section09_10.md) | 
 | 11 | [JCommonBox: Using an Anonymous Inner Class for Event Handling](/code/markdown/java_swing/section09_11.md) | 
 | 12 | [JList](/code/markdown/java_swing/section09_12.md) |
-| 13 | Multiple-Selection Lists |
+| 13 | [Multiple-Selection Lists](/code/markdown/java_swing/section09_13.md) |
 | 14 | Mouse Event Handling | 
 | 15 | Adapter Classes |
 | 16 | JPanel Subclass for Drawing with the Mouse | 
