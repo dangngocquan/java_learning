@@ -159,12 +159,22 @@
 |  |  | setSelectionModel(ListSelectionModel selectionModel) | void | JList |
 |  | 🌱🌱 | addListSelectionListener(ListSelectionListener listener) | void | JList |
 |  |  | getSelectedIndex() | int | JList |
+|  |  | getSelectedValuesList() | List | JList |
+|  |  | setFixedCellWidth() | void | JList |
+|  |  | setFixedCellWidth | void | JList |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  | 🌱🌱🌱 | valueChanged( ListSelectionEvent event ) | public void | ListSelectionListener |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  | JScrollPane(Component view) | JScrollPane | JScrollPane |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
