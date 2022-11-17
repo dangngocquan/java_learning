@@ -18,7 +18,7 @@
 | 14 | [Mouse Event Handling](/code/markdown/java_swing/section09_14.md) | 
 | 15 | [Adapter Classes](/code/markdown/java_swing/section09_15.md) |
 | 16 | [JPanel Subclass for Drawing with the Mouse](/code/markdown/java_swing/section09_16.md) | 
-| 17 | Key Event Handling |
-| 18 | Introduction to Layout Managers |
+| 17 | [Key Event Handling](/code/markdown/java_swing/section09_17.md) |
+| 18 | [Introduction to Layout Managers](/code/markdown/java_swing/section09_18.md) |
 | 19 | Using Panels to Manager More Complex Layouts |
 | 20 | JTextArea |
