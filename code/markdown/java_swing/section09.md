@@ -17,7 +17,7 @@
 | 13 | [Multiple-Selection Lists](/code/markdown/java_swing/section09_13.md) |
 | 14 | [Mouse Event Handling](/code/markdown/java_swing/section09_14.md) | 
 | 15 | [Adapter Classes](/code/markdown/java_swing/section09_15.md) |
-| 16 | JPanel Subclass for Drawing with the Mouse | 
+| 16 | [JPanel Subclass for Drawing with the Mouse](/code/markdown/java_swing/section09_16.md) | 
 | 17 | Key Event Handling |
 | 18 | Introduction to Layout Managers |
 | 19 | Using Panels to Manager More Complex Layouts |
