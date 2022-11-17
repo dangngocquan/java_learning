@@ -21,4 +21,4 @@
 | 17 | [Key Event Handling](/code/markdown/java_swing/section09_17.md) |
 | 18 | [Introduction to Layout Managers](/code/markdown/java_swing/section09_18.md) |
 | 19 | [Using Panels to Manager More Complex Layouts](/code/markdown/java_swing/section09_19.md) |
-| 20 | JTextArea |
+| 20 | [JTextArea](/code/markdown/java_swing/section09_20.md) |
