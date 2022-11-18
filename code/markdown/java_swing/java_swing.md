@@ -12,7 +12,7 @@
 | 8 | [Drawing with Polymorphism - Identifying the similarities between shapes](/code/markdown/java_swing/section08.md) |
 | 9 | [GUI Components - Part 01](/code/markdown/java_swing/section09.md) |
 | 10 | [Adding Java 2D - Using the Java 2D API to enhance drawings](/code/markdown/java_swing/section10.md) |
-| 11 | GUI Componets - Part 02 | 
+| 11 | [GUI Componets - Part 02](/code/markdown/java_swing/section11.md) | 
 
 <br>
 
@@ -60,6 +60,16 @@
         + Drawing Arcs
         + Drawing Polygons Polylines
         + Java 2D API
+    + GUI Components - Part 02
+        + Introduction
+        + JSlider
+        + [Windows: Additional Notes]
+        + Using Menus with Frames
+        + JPopupMenu
+        + Pluggable  Look-and-Feel
+        + JDesktopPane and JInternalFrame
+        + JTabledPane
+        + Layout Managers: BoxLayout and GridBagLayout
 
 
 <br> 
