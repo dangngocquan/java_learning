@@ -50,6 +50,15 @@
         + Introduction to Layout Managers
         + Using Panels to Manager More Complex Layouts
         + JTextArea
+    + Graphics and Java 2D
+        + Introduction
+        + Graphics Contexts and Graphics Objects
+        + Color Control
+        + Manipulating Fonts
+        + Drawing Lines, Rectangles and Ovals
+        + Drawing Arcs
+        + Drawing Polygons Polylines
+        + Java 2D API
 
 
 <br> 
@@ -184,9 +193,6 @@
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  | 🌱🌱🌱 | mouseClicked(MouseEvent event) | public void | MouseAdapter  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
