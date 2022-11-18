@@ -11,7 +11,8 @@
 | 7 | [Displaying Text and Images Using Labels - Providing status information](/code/markdown/java_swing/section07.md) |
 | 8 | [Drawing with Polymorphism - Identifying the similarities between shapes](/code/markdown/java_swing/section08.md) |
 | 9 | [GUI Components - Part 01](/code/markdown/java_swing/section09.md) |
-| 10 | Adding Java 2D - Using the Java 2D API to enhance drawings |
+| 10 | [Adding Java 2D - Using the Java 2D API to enhance drawings](/code/markdown/java_swing/section10.md) |
+| 11 | GUI Componets - Part 02 | 
 
 <br>
 
